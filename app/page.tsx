@@ -1,21 +1,17 @@
-import { BlogPosts } from 'app/components/posts'
+import { BlogPosts } from "app/components/posts";
 
 export default function Page() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
-      </h1>
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Welcome</h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        Hi, I'm Drew! I'm a full stack software engineer with three years of industry experience. Please use the links above to see my resume and other interesting things. You can also use the links below to see my github and linkedin.
+        <br/><br/>
+        Feel free to ignore the blog links below. Those are just there until I can get some better decorations.
       </p>
       <div className="my-8">
         <BlogPosts />
       </div>
     </section>
-  )
+  );
 }
