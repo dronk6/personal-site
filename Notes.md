@@ -6,25 +6,25 @@
 
 ## Requirements
 
-[] Contact page
-[] Links to LinkedIn and GitHub
-[] Mobile-friendly 
-[] Pass lighthouse a11y
-[] Deployed on Vercel
-[] CI/CD w/ GitHub Actions
-[] Resume Viewer
+- [ ] Contact page
+- [X] Links to LinkedIn and GitHub
+- [ ] Mobile-friendly 
+- [ ] Pass lighthouse a11y
+- [ ] Deployed on Vercel
+- [ ] CI/CD w/ GitHub Actions
+- [ ] Resume Viewer
 
 ## Tasks
 
-[] Take notes on what I struggle on 
-[x] Set this up in Git, send Chels the repo
-    [x] Send to both emails: zapier and chelseyachubb@gmail.com
-[x] Populate/style home page 
-[x] Take a crack at resume viewer
+- [X] Take notes on what I struggle on 
+- [x] Set this up in Git, send Chels the repo
+  - [x] Send to both emails: zapier and chelseyachubb@gmail.com
+- [x] Populate/style home page 
+- [x] Take a crack at resume viewer
   - It's a bit of a mess, there are notes in the "What I Struggled On" section about this
-[x] Create Figma file for Contact Entry Component
+- [x] Create Figma file for Contact Entry Component
   - [Figma Link](https://www.figma.com/design/4mRV23ogxCJM3UGVadqMxx/Contact-Card?node-id=0-1&t=U89qgyOu2vbLPVYH-1)
-[] Think about edge cases that could break a contact card, especially with automatic phone/email identification:
+- [X] Think about edge cases that could break a contact card, especially with automatic phone/email identification:
   - General:
     - SQL injection
     - No input
@@ -38,8 +38,8 @@
 
 ### On Deck
 
-[] Contact Entry Component
-[] Business card component
+- [ ] Contact Entry Component
+- [ ] Business card component
 
 ## What I Struggled On
 
