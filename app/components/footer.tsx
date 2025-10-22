@@ -32,7 +32,7 @@ export default function Footer() {
         {links.map((link) => (
           <li key={link.title}>
             <a
-              className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+              className="flex items-center transition-all hover:text-red-400"
               rel="noopener noreferrer"
               target="_blank"
               href={link.url}
